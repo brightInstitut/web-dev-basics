@@ -2,4 +2,4 @@
 
 This is the course of web development basics.
 
-Bright Institut
+Presented by Bright Institut
